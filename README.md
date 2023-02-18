@@ -22,5 +22,4 @@ Here are little of my life:
 - 📚 What do I beleive? Only simple thing: "You only need to try 1% every single day, you will become the best version of yourself".
 - 👯 I’m looking to collaborate on with anyone who is interested in code and 
 - 💬 Ask me about Machine Learning, Deep Learning, Pytorch, Tensorflow, Python.
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Belive me, Coffee is a fresh morning start ☕
