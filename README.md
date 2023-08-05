@@ -19,7 +19,7 @@
 Here are little of my life:
 
 - 🔭 I’m currently working on VCCorp Corporation, and trying my best on R&D to provide highly accuracy and performance AI product.
-- 📚 What do I beleive? Only simple thing: "You only need to try 1% every single day, you will become the best version of yourself".
-- 👯 I’m looking to collaborate on with anyone who is interested in code and 
+- 📚 What do I believe? Only simple thing: "You only need to try 1% every single day, you will become the best version of yourself".
+- 👯 I’m looking to collaborate on with anyone who is interested in R&D for AI/ML
 - 💬 Ask me about Machine Learning, Deep Learning, Pytorch, Tensorflow, Python.
 - ⚡ Fun fact: Belive me, Coffee is a fresh morning start ☕
