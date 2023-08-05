@@ -22,4 +22,4 @@ Here are little of my life:
 - 📚 What do I believe? Only simple thing: "You only need to try 1% every single day, you will become the best version of yourself".
 - 👯 I’m looking to collaborate on with anyone who is interested in R&D for AI/ML
 - 💬 Ask me about Machine Learning, Deep Learning, Pytorch, Tensorflow, Python.
-- ⚡ Fun fact: Belive me, Coffee is a fresh morning start ☕
+- ⚡ Fun fact: Coffee is a fresh morning start ☕
