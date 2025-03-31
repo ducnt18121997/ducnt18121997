@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Dean Ng
 <a href="https://www.facebook.com/duc.nt181297">
   <img align="left" alt="asneet Singh - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
@@ -23,3 +23,18 @@ Here are little of my life:
 - 👯 I’m looking to collaborate on with anyone who is interested in R&D for AI/ML
 - 💬 Ask me about Machine Learning, Deep Learning, Pytorch, Tensorflow, Python.
 - ⚡ Fun fact: Coffee is a fresh morning start ☕
+
+
+Let take a look about my Github 
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ducnt18121997&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ducnt18121997&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
